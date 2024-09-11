@@ -118,7 +118,7 @@
     "react-modal": "^2.2.1",
     "react-motion": "^0.5.0",
     "react-redux": "^5.0.5",
-    "react-router-dom": "^4.1.1",
+    "react-router-dom": "^6.0.0",
     "react-router-redux": "next",
     "react-split-pane": "^0.1.63",
     "react-stripe-elements": "^0.0.2",
